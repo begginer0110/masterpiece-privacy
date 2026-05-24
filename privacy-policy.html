@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>개인정보처리방침 | MasterpieceWidget</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #f9f9f9;
+      color: #1a1a1a;
+      line-height: 1.75;
+    }
+    .container {
+      max-width: 740px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+    }
+    .lang-switch {
+      text-align: right;
+      margin-bottom: 32px;
+    }
+    .lang-switch button {
+      background: none;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      padding: 4px 12px;
+      font-size: 13px;
+      cursor: pointer;
+      color: #555;
+    }
+    .lang-switch button.active {
+      background: #1a1a1a;
+      color: #fff;
+      border-color: #1a1a1a;
+    }
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .subtitle {
+      font-size: 14px;
+      color: #777;
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 17px;
+      font-weight: 600;
+      margin-top: 36px;
+      margin-bottom: 10px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid #e5e5e5;
+    }
+    p { margin-bottom: 10px; font-size: 15px; color: #333; }
+    ul { margin: 8px 0 10px 20px; }
+    li { font-size: 15px; color: #333; margin-bottom: 4px; }
+    .highlight-box {
+      background: #f0f7ff;
+      border-left: 3px solid #007aff;
+      border-radius: 6px;
+      padding: 14px 18px;
+      margin: 16px 0;
+      font-size: 15px;
+      color: #1a1a1a;
+    }
+    a { color: #007aff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .contact-box {
+      background: #f5f5f5;
+      border-radius: 10px;
+      padding: 20px;
+      margin-top: 12px;
+      font-size: 14px;
+      color: #555;
+    }
+    .effective-date {
+      margin-top: 48px;
+      font-size: 13px;
+      color: #999;
+      text-align: right;
+    }
+    [lang-content] { display: none; }
+    [lang-content].visible { display: block; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <div class="lang-switch">
+    <button class="active" onclick="setLang('ko')">한국어</button>
+    <button onclick="setLang('en')">English</button>
+  </div>
+
+  <!-- ===== 한국어 ===== -->
+  <div lang-content="ko" class="visible">
+
+    <h1>개인정보처리방침</h1>
+    <p class="subtitle">MasterpieceWidget · 박효진</p>
+
+    <div class="highlight-box">
+      MasterpieceWidget은 사용자의 개인정보를 수집하지 않습니다.<br>
+      모든 데이터는 사용자의 기기 안에만 저장됩니다.
+    </div>
+
+    <h2>1. 수집하는 정보</h2>
+    <p>MasterpieceWidget은 사용자를 식별하거나 추적하기 위한 어떠한 개인정보도 수집하지 않습니다. 앱이 기기에 저장하는 정보는 다음과 같습니다.</p>
+    <ul>
+      <li><strong>즐겨찾기 및 컬렉션:</strong> 사용자가 저장한 작품 목록. 기기 로컬 저장소에만 보관됩니다.</li>
+      <li><strong>위젯 설정:</strong> 선택한 컬렉션 그룹, 번들 등 위젯 표시 설정. 앱과 위젯 간 공유를 위해 기기 내 App Group에 저장됩니다.</li>
+      <li><strong>다운로드된 번들 이미지:</strong> 구매한 아트 번들 이미지. 기기 내 App Group 컨테이너에 저장됩니다.</li>
+    </ul>
+    <p>위 데이터는 외부 서버로 전송되지 않으며, 오직 기기 내에서만 사용됩니다.</p>
+
+    <h2>2. 수집하지 않는 정보</h2>
+    <ul>
+      <li>이름, 이메일, 전화번호 등 신원 정보</li>
+      <li>위치 정보</li>
+      <li>카메라, 마이크 데이터</li>
+      <li>행동 분석, 광고 추적 데이터</li>
+      <li>결제 정보 (인앱 결제는 Apple이 직접 처리)</li>
+    </ul>
+
+    <h2>3. 인앱 결제 (In-App Purchase)</h2>
+    <p>아트 번들 구매는 Apple의 StoreKit을 통해 처리됩니다. 결제 정보는 Apple에 의해 처리되며, 개발자는 어떠한 결제 정보에도 접근할 수 없습니다. Apple의 개인정보처리방침은 <a href="https://www.apple.com/legal/privacy/ko-ww/" target="_blank">여기</a>에서 확인하실 수 있습니다.</p>
+
+    <h2>4. 외부 서비스</h2>
+    <p>앱은 작품 이미지와 정보를 제공하기 위해 다음 외부 서비스에 접근합니다.</p>
+    <ul>
+      <li><strong>Wikimedia Commons:</strong> 번들 작품 이미지 제공. 개인정보는 전송되지 않으며, 이미지 URL 요청만 발생합니다. (<a href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy" target="_blank">Wikimedia 개인정보처리방침</a>)</li>
+      <li><strong>Art Institute of Chicago (AIC) API:</strong> 작품 탐색 및 검색 기능 제공. 개인정보는 전송되지 않으며, 작품 검색 쿼리만 요청됩니다. (<a href="https://www.artic.edu/terms" target="_blank">AIC 이용약관</a>)</li>
+    </ul>
+
+    <h2>5. 추적(Tracking)</h2>
+    <p>MasterpieceWidget은 앱 추적 투명성(ATT) 프레임워크에 따른 추적을 수행하지 않습니다. 제3자 광고 네트워크, 분석 SDK, 행동 추적 도구를 사용하지 않습니다.</p>
+
+    <h2>6. 아동 개인정보 보호</h2>
+    <p>MasterpieceWidget은 만 14세 미만 아동으로부터 의도적으로 개인정보를 수집하지 않습니다. 앱은 어떠한 사용자로부터도 개인정보를 수집하지 않기 때문에 연령에 관계없이 동일하게 적용됩니다.</p>
+
+    <h2>7. 데이터 삭제</h2>
+    <p>앱을 삭제하면 기기에 저장된 모든 데이터(즐겨찾기, 컬렉션, 다운로드된 이미지, 위젯 설정)가 함께 삭제됩니다. 외부 서버에는 데이터가 저장되지 않으므로 별도의 삭제 요청은 필요하지 않습니다.</p>
+
+    <h2>8. 개인정보처리방침 변경</h2>
+    <p>본 방침이 변경될 경우 이 페이지에 업데이트되며, 상단의 시행일자가 함께 변경됩니다. 중요한 변경사항이 있을 경우 앱 업데이트 노트를 통해 안내합니다.</p>
+
+    <h2>9. 문의</h2>
+    <p>개인정보처리방침에 관한 문의사항이 있으시면 아래로 연락해 주세요.</p>
+    <div class="contact-box">
+      이메일: <a href="mailto:425psj@hotmail.co.kr">425psj@hotmail.co.kr</a>
+    </div>
+
+    <p class="effective-date">시행일자: 2026년 6월 1일</p>
+
+  </div>
+
+  <!-- ===== English ===== -->
+  <div lang-content="en">
+
+    <h1>Privacy Policy</h1>
+    <p class="subtitle">MasterpieceWidget · Hyojin Park</p>
+
+    <div class="highlight-box">
+      MasterpieceWidget does not collect any personal information.<br>
+      All data remains on your device only.
+    </div>
+
+    <h2>1. Information We Store</h2>
+    <p>MasterpieceWidget does not collect any personal data to identify or track users. The following information is stored locally on your device only:</p>
+    <ul>
+      <li><strong>Favorites &amp; Collections:</strong> Artworks you have saved. Stored only in local device storage.</li>
+      <li><strong>Widget Settings:</strong> Selected collection groups, bundles, and display preferences. Stored in the App Group container on your device for sharing between the app and widget.</li>
+      <li><strong>Downloaded Bundle Images:</strong> Art bundle images you have purchased. Stored in the App Group container on your device.</li>
+    </ul>
+    <p>None of this data is transmitted to external servers.</p>
+
+    <h2>2. Information We Do Not Collect</h2>
+    <ul>
+      <li>Name, email address, phone number, or any identifying information</li>
+      <li>Location data</li>
+      <li>Camera or microphone data</li>
+      <li>Behavioral analytics or advertising identifiers</li>
+      <li>Payment information (handled entirely by Apple)</li>
+    </ul>
+
+    <h2>3. In-App Purchases</h2>
+    <p>Art bundle purchases are processed through Apple's StoreKit. All payment information is handled by Apple, and the developer has no access to any payment data. You can review Apple's Privacy Policy <a href="https://www.apple.com/legal/privacy/en-ww/" target="_blank">here</a>.</p>
+
+    <h2>4. Third-Party Services</h2>
+    <p>The app accesses the following third-party services to display artwork images and information:</p>
+    <ul>
+      <li><strong>Wikimedia Commons:</strong> Provides bundle artwork images. No personal data is transmitted; only image URL requests are made. (<a href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy" target="_blank">Wikimedia Privacy Policy</a>)</li>
+      <li><strong>Art Institute of Chicago (AIC) API:</strong> Powers artwork browsing and search. No personal data is transmitted; only artwork search queries are sent. (<a href="https://www.artic.edu/terms" target="_blank">AIC Terms</a>)</li>
+    </ul>
+
+    <h2>5. Tracking</h2>
+    <p>MasterpieceWidget does not perform any tracking as defined under Apple's App Tracking Transparency framework. We do not use third-party ad networks, analytics SDKs, or behavioral tracking tools.</p>
+
+    <h2>6. Children's Privacy</h2>
+    <p>MasterpieceWidget does not knowingly collect personal information from children under 13. Since we do not collect personal information from any user, this applies equally regardless of age.</p>
+
+    <h2>7. Data Deletion</h2>
+    <p>Uninstalling the app removes all locally stored data (favorites, collections, downloaded images, widget settings) from your device. No data deletion request is needed as no data is stored on external servers.</p>
+
+    <h2>8. Changes to This Policy</h2>
+    <p>Any updates to this policy will be reflected on this page with an updated effective date. Significant changes will be noted in the app's update release notes.</p>
+
+    <h2>9. Contact</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us:</p>
+    <div class="contact-box">
+      Email: <a href="mailto:425psj@hotmail.co.kr">425psj@hotmail.co.kr</a>
+    </div>
+
+    <p class="effective-date">Effective Date: June 1, 2026</p>
+
+  </div>
+
+</div>
+
+<script>
+  function setLang(lang) {
+    document.querySelectorAll('[lang-content]').forEach(el => {
+      el.classList.toggle('visible', el.getAttribute('lang-content') === lang);
+    });
+    document.querySelectorAll('.lang-switch button').forEach(btn => {
+      btn.classList.toggle('active', btn.textContent.trim() === (lang === 'ko' ? '한국어' : 'English'));
+    });
+  }
+</script>
+</body>
+</html>
