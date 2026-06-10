@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "com.masterpiece.bundle.monet",
+    "name": "모네 컬렉션",
+    "subtitle": "수련, 인상·해돋이 외 18점",
+    "category": "작가별",
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Monet_-_Impression,_Sunrise.jpg",
+      "Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg",
+      "Claude_Monet_-_Water_Lilies_and_Japanese_Bridge_-_Google_Art_Project.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "monet_01",
+        "title": "인상, 해돋이",
+        "titleEN": "Impression, Sunrise",
+        "artist": "Claude Monet",
+        "date": "1872",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Monet_-_Impression,_Sunrise.jpg"
+      },
+      {
+        "id": "monet_02",
+        "title": "수련 (1906, 시카고)",
+        "titleEN": "Water Lilies (1906, Chicago)",
+        "artist": "Claude Monet",
+        "date": "1906",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_Water_Lilies_-_1906,_Ryerson.jpg"
+      },
+      {
+        "id": "monet_03",
+        "title": "수련과 일본식 다리",
+        "titleEN": "Water Lilies and Japanese Bridge",
+        "artist": "Claude Monet",
+        "date": "1899",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_Water_Lilies_and_Japanese_Bridge_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "monet_04",
+        "title": "수련 (파란 수련)",
+        "titleEN": "Water Lilies (Blue Water Lilies)",
+        "artist": "Claude Monet",
+        "date": "1916-1919",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_Blue_Water_Lilies_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "monet_05",
+        "title": "수련 연못 (메트로폴리탄)",
+        "titleEN": "The Water-Lily Pond (Metropolitan)",
+        "artist": "Claude Monet",
+        "date": "1899",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Water-Lily_Pond_1899_Claude_Monet_Metropolitan.jpg"
+      },
+      {
+        "id": "monet_06",
+        "title": "루앙 대성당, 석양",
+        "titleEN": "Rouen Cathedral, Facade (Sunset)",
+        "artist": "Claude Monet",
+        "date": "1894",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_Rouen_Cathedral,_Facade_(Sunset).JPG"
+      },
+      {
+        "id": "monet_07",
+        "title": "루앙 대성당 (아침 효과)",
+        "titleEN": "Rouen Cathedral, Facade (Morning Effect)",
+        "artist": "Claude Monet",
+        "date": "1894",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_Rouen_Cathedral,_Facade_(Morning_effect).JPG"
+      },
+      {
+        "id": "monet_08",
+        "title": "아르장퇴유 다리",
+        "titleEN": "The Bridge at Argenteuil",
+        "artist": "Claude Monet",
+        "date": "1874",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_The_Argenteuil_Bridge_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "monet_09",
+        "title": "지베르니의 건초더미",
+        "titleEN": "Haystacks at Giverny",
+        "artist": "Claude Monet",
+        "date": "1884-1889",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "'Haystacks_at_Giverny'_by_Claude_Monet,_1884-89,_Pushkin_Museum.JPG"
+      },
+      {
+        "id": "monet_10",
+        "title": "국회의사당, 석양",
+        "titleEN": "The Houses of Parliament, Sunset",
+        "artist": "Claude Monet",
+        "date": "1903",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_The_Houses_of_Parliament,_Sunset.jpg"
+      },
+      {
+        "id": "monet_11",
+        "title": "안개 효과의 국회의사당",
+        "titleEN": "The Houses of Parliament (Effect of Fog)",
+        "artist": "Claude Monet",
+        "date": "1903-1904",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Houses_of_Parliament_(Effect_of_Fog).JPG"
+      },
+      {
+        "id": "monet_12",
+        "title": "워털루 다리, 회색 날씨",
+        "titleEN": "Waterloo Bridge, Gray Weather",
+        "artist": "Claude Monet",
+        "date": "1900",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Monet_-_Waterloo_Bridge,_Gray_Weather,_1900.jpg"
+      },
+      {
+        "id": "monet_13",
+        "title": "양귀비 들판",
+        "titleEN": "Poppy Field",
+        "artist": "Claude Monet",
+        "date": "1873",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_Poppy_Field_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "monet_14",
+        "title": "생-라자르 역",
+        "titleEN": "La Gare Saint-Lazare",
+        "artist": "Claude Monet",
+        "date": "1877",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "La_Gare_Saint-Lazare_-_Claude_Monet.jpg"
+      },
+      {
+        "id": "monet_15",
+        "title": "정원의 여인들",
+        "titleEN": "Women in the Garden",
+        "artist": "Claude Monet",
+        "date": "1866-1867",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_024.jpg"
+      },
+      {
+        "id": "monet_16",
+        "title": "수련 연못 (내셔널 갤러리 런던)",
+        "titleEN": "The Water-Lily Pond (National Gallery, London)",
+        "artist": "Claude Monet",
+        "date": "1899",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet,_The_Water-Lily_Pond_(National_Gallery,_London).jpg"
+      },
+      {
+        "id": "monet_17",
+        "title": "수련, 구름",
+        "titleEN": "The Water Lilies — The Clouds",
+        "artist": "Claude Monet",
+        "date": "1903",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "monet_18",
+        "title": "노르망디 기차 도착",
+        "titleEN": "Arrival of the Normandy Train, Gare Saint-Lazare",
+        "artist": "Claude Monet",
+        "date": "1877",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_Arrival_of_the_Normandy_Train,_Gare_Saint-Lazare_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "monet_19",
+        "title": "루앙 대성당 아침 빛",
+        "titleEN": "The Portal of Rouen Cathedral in Morning Light",
+        "artist": "Claude Monet",
+        "date": "1894",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Claude_Monet_-_The_Portal_of_Rouen_Cathedral_in_Morning_Light_(1894)_-_Getty_Center_2001.33.jpg"
+      },
+      {
+        "id": "monet_20",
+        "title": "아르장퇴유 근처 양귀비 들판",
+        "titleEN": "Poppy Fields near Argenteuil",
+        "artist": "Claude Monet",
+        "date": "1875",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Poppy_Fields_near_Argenteuil_MET_DT1034.jpg"
+      }
+    ]
+  },
+  {
+    "id": "com.masterpiece.bundle.vangogh",
+    "name": "반 고흐 컬렉션",
+    "subtitle": "별이 빛나는 밤, 해바라기 외 18점",
+    "category": "작가별",
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "Vincent_van_Gogh_-_Sunflowers_(1888,_National_Gallery_London).jpg",
+      "Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "vangogh_01",
+        "title": "별이 빛나는 밤",
+        "titleEN": "The Starry Night",
+        "artist": "Vincent van Gogh",
+        "date": "1889",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "vangogh_02",
+        "title": "해바라기 (런던)",
+        "titleEN": "Sunflowers (London)",
+        "artist": "Vincent van Gogh",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Sunflowers_(1888,_National_Gallery_London).jpg"
+      },
+      {
+        "id": "vangogh_03",
+        "title": "해바라기 (반 고흐 뮤지엄)",
+        "titleEN": "Sunflowers (Van Gogh Museum)",
+        "artist": "Vincent van Gogh",
+        "date": "1889",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Sunflowers_-_VGM_F458.jpg"
+      },
+      {
+        "id": "vangogh_04",
+        "title": "아를의 침실",
+        "titleEN": "The Bedroom",
+        "artist": "Vincent van Gogh",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_The_Bedroom_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "vangogh_05",
+        "title": "아이리스",
+        "titleEN": "Irises",
+        "artist": "Vincent van Gogh",
+        "date": "1889",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Irises_(1889).jpg"
+      },
+      {
+        "id": "vangogh_06",
+        "title": "밤의 카페",
+        "titleEN": "The Night Café",
+        "artist": "Vincent van Gogh",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Le_café_de_nuit_(The_Night_Café)_by_Vincent_van_Gogh.jpeg"
+      },
+      {
+        "id": "vangogh_07",
+        "title": "포룸 광장의 카페 테라스",
+        "titleEN": "Café Terrace at Night",
+        "artist": "Vincent van Gogh",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Cafe_Terrace_at_Night_(1888).jpg"
+      },
+      {
+        "id": "vangogh_08",
+        "title": "꽃 피는 아몬드 나무",
+        "titleEN": "Almond Blossom",
+        "artist": "Vincent van Gogh",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "vangogh_09",
+        "title": "감자 먹는 사람들",
+        "titleEN": "The Potato Eaters",
+        "artist": "Vincent van Gogh",
+        "date": "1885",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_Van_Gogh_-_The_Potato_Eaters.png"
+      },
+      {
+        "id": "vangogh_10",
+        "title": "까마귀가 나는 밀밭",
+        "titleEN": "Wheatfield with Crows",
+        "artist": "Vincent van Gogh",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Wheatfield_with_crows_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "vangogh_11",
+        "title": "자화상 (붕대 감은 귀)",
+        "titleEN": "Self-Portrait with Bandaged Ear",
+        "artist": "Vincent van Gogh",
+        "date": "1889",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Self_portrait_with_bandaged_ear_F529.jpg"
+      },
+      {
+        "id": "vangogh_12",
+        "title": "자화상 (회색 펠트 모자)",
+        "titleEN": "Self-Portrait with Grey Felt Hat",
+        "artist": "Vincent van Gogh",
+        "date": "1887",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Self-portrait_with_grey_felt_hat_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "vangogh_13",
+        "title": "씨 뿌리는 사람",
+        "titleEN": "The Sower",
+        "artist": "Vincent van Gogh",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_The_Sower_-_c._17-28_June_1888.jpg"
+      },
+      {
+        "id": "vangogh_14",
+        "title": "론 강의 별이 빛나는 밤",
+        "titleEN": "Starry Night Over the Rhône",
+        "artist": "Vincent van Gogh",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Starry_Night_Over_the_Rhone.jpg"
+      },
+      {
+        "id": "vangogh_15",
+        "title": "가셰 박사의 초상",
+        "titleEN": "Portrait of Dr. Paul Gachet",
+        "artist": "Vincent van Gogh",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Dr_Paul_Gachet_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "vangogh_16",
+        "title": "자화상 (1889, 오르세)",
+        "titleEN": "Self-Portrait (1889, Musée d'Orsay)",
+        "artist": "Vincent van Gogh",
+        "date": "1889",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Autoportrait_de_Vincent_van_Gogh.JPG"
+      },
+      {
+        "id": "vangogh_17",
+        "title": "밀짚 모자를 쓴 자화상",
+        "titleEN": "Self-Portrait with Straw Hat",
+        "artist": "Vincent van Gogh",
+        "date": "1887",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Van_Gogh_Self-Portrait_with_Straw_Hat_1887-Metropolitan.jpg"
+      },
+      {
+        "id": "vangogh_18",
+        "title": "아이리스 (반 고흐 뮤지엄)",
+        "titleEN": "Irises (Van Gogh Museum)",
+        "artist": "Vincent van Gogh",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Irises-Vincent_van_Gogh.jpg"
+      },
+      {
+        "id": "vangogh_19",
+        "title": "파이프를 문 붕대 감은 귀의 자화상",
+        "titleEN": "Self-Portrait with Bandaged Ear and Pipe",
+        "artist": "Vincent van Gogh",
+        "date": "1889",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Self_Portrait_with_Bandaged_Ear_and_Pipe.jpg"
+      },
+      {
+        "id": "vangogh_20",
+        "title": "붉은 포도밭",
+        "titleEN": "The Red Vineyard",
+        "artist": "Vincent van Gogh",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vincent_van_Gogh_-_Red_Vineyard_at_Arles_(1888).jpg"
+      }
+    ]
+  },
+  {
+    "id": "com.masterpiece.bundle.impressionism",
+    "name": "인상주의 컬렉션",
+    "subtitle": "르누아르, 드가, 모리조 외 17점",
+    "category": "사조·시대별",
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+      "Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg",
+      "Renoir_-_The_Two_Sisters,_On_the_Terrace.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "imp_01",
+        "title": "뱃놀이 파티의 오찬",
+        "titleEN": "Luncheon of the Boating Party",
+        "artist": "Pierre-Auguste Renoir",
+        "date": "1880-1881",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_02",
+        "title": "물랭 드 라 갈레트의 무도회",
+        "titleEN": "Dance at Le Moulin de la Galette",
+        "artist": "Pierre-Auguste Renoir",
+        "date": "1876",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Galette_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_03",
+        "title": "두 자매 (테라스에서)",
+        "titleEN": "Two Sisters (On the Terrace)",
+        "artist": "Pierre-Auguste Renoir",
+        "date": "1881",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Renoir_-_The_Two_Sisters,_On_the_Terrace.jpg"
+      },
+      {
+        "id": "imp_04",
+        "title": "그네",
+        "titleEN": "The Swing",
+        "artist": "Pierre-Auguste Renoir",
+        "date": "1876",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Auguste_Renoir_-_The_Swing_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_05",
+        "title": "물뿌리개를 든 소녀",
+        "titleEN": "A Girl with a Watering Can",
+        "artist": "Pierre-Auguste Renoir",
+        "date": "1876",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Auguste_Renoir_-_A_Girl_with_a_Watering_Can_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_06",
+        "title": "발레 교실",
+        "titleEN": "The Ballet Class",
+        "artist": "Edgar Degas",
+        "date": "1874",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_07",
+        "title": "압생트",
+        "titleEN": "L'Absinthe",
+        "artist": "Edgar Degas",
+        "date": "1876",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "\"L'Absinthe\",_par_Edgar_Degas_(1876).jpg"
+      },
+      {
+        "id": "imp_08",
+        "title": "발레 리허설 (무대 위)",
+        "titleEN": "Ballet Rehearsal on Stage",
+        "artist": "Edgar Degas",
+        "date": "1874",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_09",
+        "title": "다리미질하는 여인",
+        "titleEN": "Woman Ironing",
+        "artist": "Edgar Degas",
+        "date": "1876-1887",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Edgar_Degas_-_Woman_Ironing_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_10",
+        "title": "요람",
+        "titleEN": "The Cradle",
+        "artist": "Berthe Morisot",
+        "date": "1872",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Berthe_Morisot_-_The_Cradle_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_11",
+        "title": "파리 거리, 비 오는 날",
+        "titleEN": "Paris Street; Rainy Day",
+        "artist": "Gustave Caillebotte",
+        "date": "1877",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_12",
+        "title": "아이의 목욕",
+        "titleEN": "The Child's Bath",
+        "artist": "Mary Cassatt",
+        "date": "1893",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Mary_Cassatt_-_The_Child's_Bath_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_13",
+        "title": "봄의 불르바르 몽마르트르",
+        "titleEN": "Boulevard Montmartre, Spring",
+        "artist": "Camille Pissarro",
+        "date": "1897",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Camille_Pissarro_-_Boulevard_Montmartre,_Spring_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "imp_14",
+        "title": "밤의 불르바르 몽마르트르",
+        "titleEN": "The Boulevard Montmartre at Night",
+        "artist": "Camille Pissarro",
+        "date": "1897",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Camille_Pissarro,_The_Boulevard_Montmartre_at_Night,_1897.jpg"
+      },
+      {
+        "id": "imp_15",
+        "title": "포르 마를리의 홍수",
+        "titleEN": "The Flood at Port-Marly",
+        "artist": "Alfred Sisley",
+        "date": "1876",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Alfred_sisley,_l'inondazione_di_port-marly,_1876.JPG"
+      },
+      {
+        "id": "imp_16",
+        "title": "마루 깎는 사람들",
+        "titleEN": "The Floor Scrapers",
+        "artist": "Gustave Caillebotte",
+        "date": "1875",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustave_Caillebotte-Floor-scrapers_(1876).jpg"
+      },
+      {
+        "id": "imp_17",
+        "title": "어머니와 아이",
+        "titleEN": "Mother and Child",
+        "artist": "Mary Cassatt",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Mother_and_Child_-_Mary_Cassatt.JPG"
+      },
+      {
+        "id": "imp_18",
+        "title": "발레 리허설",
+        "titleEN": "Ballet Rehearsal",
+        "artist": "Edgar Degas",
+        "date": "1874",
+        "medium": "Pastel",
+        "wikimediaFile": "'Ballet_Rehearsal'_by_Edgar_Degas,_pastel,_Pushkin_Museum.JPG"
+      },
+      {
+        "id": "imp_19",
+        "title": "발레 교실 (1880-1881)",
+        "titleEN": "The Ballet Class (1880–1881)",
+        "artist": "Edgar Degas",
+        "date": "1880-1881",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Degas_-_The_Ballet_Class,_1880-1881.jpg"
+      },
+      {
+        "id": "imp_20",
+        "title": "세 댄서 (노란 치마)",
+        "titleEN": "Three Dancers in Yellow Skirts",
+        "artist": "Edgar Degas",
+        "date": "c. 1891",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Three_Dancers_in_Yellow_Skirts_Edgar_Degas.JPG"
+      }
+    ]
+  },
+  {
+    "id": "com.masterpiece.bundle.renaissance",
+    "name": "르네상스 컬렉션",
+    "subtitle": "레오나르도, 보티첼리, 라파엘로 외 17점",
+    "category": "사조·시대별",
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+      "Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg",
+      "Annunciation_(Leonardo).jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "ren_01",
+        "title": "아담의 창조",
+        "titleEN": "The Creation of Adam",
+        "artist": "Michelangelo",
+        "date": "c. 1508-1512",
+        "medium": "Fresco",
+        "wikimediaFile": "Michelangelo_-_Creation_of_Adam_(cropped).jpg"
+      },
+      {
+        "id": "ren_02",
+        "title": "흰 족제비를 안은 여인",
+        "titleEN": "Lady with an Ermine",
+        "artist": "Leonardo da Vinci",
+        "date": "c. 1489-1490",
+        "medium": "Oil on walnut panel",
+        "wikimediaFile": "Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "ren_03",
+        "title": "수태고지",
+        "titleEN": "Annunciation",
+        "artist": "Leonardo da Vinci",
+        "date": "c. 1472-1475",
+        "medium": "Oil and tempera on panel",
+        "wikimediaFile": "Annunciation_(Leonardo).jpg"
+      },
+      {
+        "id": "ren_04",
+        "title": "성 안나와 성모자",
+        "titleEN": "The Virgin and Child with Saint Anne",
+        "artist": "Leonardo da Vinci",
+        "date": "c. 1503-1519",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Leonardo_da_Vinci_-_Virgin_and_Child_with_St_Anne_C2RMF_retouched.jpg"
+      },
+      {
+        "id": "ren_05",
+        "title": "비너스의 탄생",
+        "titleEN": "The Birth of Venus",
+        "artist": "Sandro Botticelli",
+        "date": "c. 1484-1486",
+        "medium": "Tempera on canvas",
+        "wikimediaFile": "Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "ren_06",
+        "title": "봄 (프리마베라)",
+        "titleEN": "Spring (La Primavera)",
+        "artist": "Sandro Botticelli",
+        "date": "c. 1477-1482",
+        "medium": "Tempera on panel",
+        "wikimediaFile": "Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "ren_07",
+        "title": "아테네 학당",
+        "titleEN": "The School of Athens",
+        "artist": "Raphael",
+        "date": "1509-1511",
+        "medium": "Fresco",
+        "wikimediaFile": "The_School_of_Athens_by_Raffaello_Sanzio_da_Urbino.jpg"
+      },
+      {
+        "id": "ren_08",
+        "title": "시스티나의 마돈나",
+        "titleEN": "The Sistine Madonna",
+        "artist": "Raphael",
+        "date": "1512",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Raphael_-_The_Sistine_Madonna_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "ren_09",
+        "title": "변용",
+        "titleEN": "The Transfiguration",
+        "artist": "Raphael",
+        "date": "1516-1520",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Transfiguration_Raphael.jpg"
+      },
+      {
+        "id": "ren_10",
+        "title": "우르비노의 비너스",
+        "titleEN": "Venus of Urbino",
+        "artist": "Titian",
+        "date": "1538",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Tiziano_-_Venere_di_Urbino_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "ren_11",
+        "title": "성모 승천",
+        "titleEN": "Assumption of the Virgin",
+        "artist": "Titian",
+        "date": "1516-1518",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Tiziano,_l'assunta,_1516-18.JPG"
+      },
+      {
+        "id": "ren_12",
+        "title": "잠자는 비너스",
+        "titleEN": "Sleeping Venus",
+        "artist": "Giorgione",
+        "date": "c. 1508-1510",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg"
+      },
+      {
+        "id": "ren_13",
+        "title": "폭풍",
+        "titleEN": "The Tempest",
+        "artist": "Giorgione",
+        "date": "c. 1508",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Giorgione,_The_tempest.jpg"
+      },
+      {
+        "id": "ren_14",
+        "title": "동방 박사의 경배",
+        "titleEN": "Adoration of the Magi",
+        "artist": "Leonardo da Vinci",
+        "date": "1481-1482",
+        "medium": "Oil and tempera on panel",
+        "wikimediaFile": "Leonardo_da_Vinci_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "ren_15",
+        "title": "세례 요한",
+        "titleEN": "Saint John the Baptist",
+        "artist": "Leonardo da Vinci",
+        "date": "c. 1513-1516",
+        "medium": "Oil on walnut panel",
+        "wikimediaFile": "Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg"
+      },
+      {
+        "id": "ren_16",
+        "title": "성가족 (돈다 토도)",
+        "titleEN": "Holy Family (Doni Tondo)",
+        "artist": "Michelangelo",
+        "date": "c. 1506-1508",
+        "medium": "Tempera on panel",
+        "wikimediaFile": "Michelangelo_Buonarroti_Tondo_Doni.jpg"
+      },
+      {
+        "id": "ren_17",
+        "title": "팔라스와 켄타우로스",
+        "titleEN": "Pallas and the Centaur",
+        "artist": "Sandro Botticelli",
+        "date": "1482-1483",
+        "medium": "Tempera on canvas",
+        "wikimediaFile": "Botticelli,_pallade_e_il_centauro_00.jpg"
+      },
+      {
+        "id": "ren_18",
+        "title": "발다사레 카스틸리오네의 초상",
+        "titleEN": "Portrait of Baldassare Castiglione",
+        "artist": "Raphael",
+        "date": "c. 1514-1515",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Baldassare_Castiglione_de_Raphael.JPG"
+      },
+      {
+        "id": "ren_19",
+        "title": "비너스와 마르스",
+        "titleEN": "Venus and Mars",
+        "artist": "Sandro Botticelli",
+        "date": "c. 1483",
+        "medium": "Tempera on panel",
+        "wikimediaFile": "Venus_and_Mars.jpg"
+      },
+      {
+        "id": "ren_20",
+        "title": "바위 동굴의 성모 (런던)",
+        "titleEN": "Virgin of the Rocks (London)",
+        "artist": "Leonardo da Vinci",
+        "date": "c. 1495-1508",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Leonardo_da_Vinci_Virgin_of_the_Rocks_(National_Gallery_London).jpg"
+      }
+    ]
+  },
+  {
+    "id": "com.masterpiece.bundle.landscape",
+    "name": "풍경화 컬렉션",
+    "subtitle": "프리드리히, 터너, 호쿠사이 외 17점",
+    "category": "주제별",
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg",
+      "Caspar_David_Friedrich_-_Monk_by_the_Sea.jpg",
+      "The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "land_01",
+        "title": "안개 바다 위의 방랑자",
+        "titleEN": "Wanderer above the Sea of Fog",
+        "artist": "Caspar David Friedrich",
+        "date": "c. 1818",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
+      },
+      {
+        "id": "land_02",
+        "title": "바다의 수도사",
+        "titleEN": "Monk by the Sea",
+        "artist": "Caspar David Friedrich",
+        "date": "1808-1810",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Caspar_David_Friedrich_-_Monk_by_the_Sea.jpg"
+      },
+      {
+        "id": "land_03",
+        "title": "싸우는 테메레르",
+        "titleEN": "The Fighting Temeraire",
+        "artist": "J.M.W. Turner",
+        "date": "1839",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg"
+      },
+      {
+        "id": "land_04",
+        "title": "비, 증기, 속도",
+        "titleEN": "Rain, Steam and Speed",
+        "artist": "J.M.W. Turner",
+        "date": "1844",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rain_Steam_and_Speed_the_Great_Western_Railway.jpg"
+      },
+      {
+        "id": "land_05",
+        "title": "눈보라: 항구 앞바다의 증기선",
+        "titleEN": "Snow Storm: Steam-Boat off a Harbour's Mouth",
+        "artist": "J.M.W. Turner",
+        "date": "1842",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Turner_-_Snow_Storm,_Steam-Boat_off_a_Harbour's_Mouth.jpg"
+      },
+      {
+        "id": "land_06",
+        "title": "율리시스, 폴리페무스를 조롱하다",
+        "titleEN": "Ulysses Deriding Polyphemus",
+        "artist": "J.M.W. Turner",
+        "date": "1829",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "JMW_Turner_-_Ulysses_deriding_Polyphemus_-_1829.jpg"
+      },
+      {
+        "id": "land_07",
+        "title": "건초 마차",
+        "titleEN": "The Hay Wain",
+        "artist": "John Constable",
+        "date": "1821",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "John_Constable_The_Hay_Wain.jpg"
+      },
+      {
+        "id": "land_08",
+        "title": "옥스보 (코네티컷 강)",
+        "titleEN": "The Oxbow (Connecticut River)",
+        "artist": "Thomas Cole",
+        "date": "1836",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Thomas_Cole,_The_Oxbow.jpg"
+      },
+      {
+        "id": "land_09",
+        "title": "안데스의 심장",
+        "titleEN": "The Heart of the Andes",
+        "artist": "Frederic Edwin Church",
+        "date": "1859",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Church_Heart_of_the_Andes.jpg"
+      },
+      {
+        "id": "land_10",
+        "title": "나이아가라 폭포",
+        "titleEN": "Niagara",
+        "artist": "Frederic Edwin Church",
+        "date": "1857",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Niagara_by_Frederic_Edwin_Church,_1857_-_Corcoran_Gallery_of_Art_-_DSC01135.JPG"
+      },
+      {
+        "id": "land_11",
+        "title": "시에라 네바다 산맥 사이에서",
+        "titleEN": "Among the Sierra Nevada, California",
+        "artist": "Albert Bierstadt",
+        "date": "1868",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Albert_Bierstadt_-_Among_the_Sierra_Nevada,_California_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "land_12",
+        "title": "가나가와 해변의 높은 파도",
+        "titleEN": "The Great Wave off Kanagawa",
+        "artist": "Katsushika Hokusai",
+        "date": "c. 1831",
+        "medium": "Woodblock print",
+        "wikimediaFile": "Great_Wave_off_Kanagawa2.jpg"
+      },
+      {
+        "id": "land_13",
+        "title": "붉은 후지산 (개풍쾌청)",
+        "titleEN": "Fine Wind, Clear Morning (Red Fuji)",
+        "artist": "Katsushika Hokusai",
+        "date": "c. 1830-1832",
+        "medium": "Woodblock print",
+        "wikimediaFile": "Katsushika_Hokusai_-_Fine_Wind,_Clear_Morning_(Gaifū_kaisei)_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "land_14",
+        "title": "오하시 다리의 소나기",
+        "titleEN": "Evening Shower at Atake and the Great Bridge",
+        "artist": "Utagawa Hiroshige",
+        "date": "1857",
+        "medium": "Woodblock print",
+        "wikimediaFile": "Hiroshige_-_Evening_Shower_at_Atake_and_the_Great_Bridge.jpg"
+      },
+      {
+        "id": "land_15",
+        "title": "데담 강의 계곡",
+        "titleEN": "Stour Valley with the Church of Dedham",
+        "artist": "John Constable",
+        "date": "1814",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "John_Constable_-_The_Stour-Valley_with_the_Church_of_Dedham_-_WGA5184.jpg"
+      },
+      {
+        "id": "land_16",
+        "title": "산악의 강 풍경",
+        "titleEN": "Mountainous River Landscape",
+        "artist": "Caspar David Friedrich",
+        "date": "c. 1821",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Caspar_David_Friedrich_-_Mountainous_river_landscape.jpg"
+      },
+      {
+        "id": "land_17",
+        "title": "가메이도 매화원",
+        "titleEN": "Plum Garden, Kameido",
+        "artist": "Utagawa Hiroshige",
+        "date": "1857",
+        "medium": "Woodblock print",
+        "wikimediaFile": "Ando_Hiroshige_-_Plum_Garden,_Kameido_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "land_18",
+        "title": "시에라 네바다의 여명",
+        "titleEN": "Among the Sierra Nevada Mountains",
+        "artist": "Albert Bierstadt",
+        "date": "1868",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Albert_Bierstadt,_Among_the_Sierra_Nevada_Mountains.jpg"
+      },
+      {
+        "id": "land_19",
+        "title": "황야의 황혼",
+        "titleEN": "Twilight in the Wilderness",
+        "artist": "Frederic Edwin Church",
+        "date": "1860",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Frederic_Edwin_Church_-_Twilight_in_the_Wilderness.jpg"
+      },
+      {
+        "id": "land_20",
+        "title": "베네치아, 살루테 성당",
+        "titleEN": "Venice with the Salute",
+        "artist": "J.M.W. Turner",
+        "date": "c. 1840-1845",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Joseph_Mallord_William_Turner_-_Venice_with_the_Salute_-_Google_Art_Project.jpg"
+      }
+    ]
+  },
+  {
+    "id": "com.masterpiece.bundle.louvre",
+    "name": "루브르 하이라이트",
+    "subtitle": "모나 리자, 대 오달리스크 외 18점",
+    "category": "미술관별",
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+      "Jean_Auguste_Dominique_Ingres,_La_Grande_Odalisque,_1814.jpg",
+      "Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "louvre_01",
+        "title": "모나 리자",
+        "titleEN": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "date": "c. 1503-1519",
+        "medium": "Oil on poplar panel",
+        "wikimediaFile": "Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"
+      },
+      {
+        "id": "louvre_02",
+        "title": "대 오달리스크",
+        "titleEN": "La Grande Odalisque",
+        "artist": "Jean-Auguste-Dominique Ingres",
+        "date": "1814",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jean_Auguste_Dominique_Ingres,_La_Grande_Odalisque,_1814.jpg"
+      },
+      {
+        "id": "louvre_03",
+        "title": "민중을 이끄는 자유의 여신",
+        "titleEN": "Liberty Leading the People",
+        "artist": "Eugène Delacroix",
+        "date": "1830",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpg"
+      },
+      {
+        "id": "louvre_04",
+        "title": "가나의 혼인 잔치",
+        "titleEN": "The Wedding at Cana",
+        "artist": "Paolo Veronese",
+        "date": "1563",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Paolo_Veronese,_The_Wedding_at_Cana.JPG"
+      },
+      {
+        "id": "louvre_05",
+        "title": "밧세바의 목욕",
+        "titleEN": "Bathsheba at Her Bath",
+        "artist": "Rembrandt van Rijn",
+        "date": "1654",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_-_Bathsheba_at_Her_Bath_-_WGA19090.jpg"
+      },
+      {
+        "id": "louvre_06",
+        "title": "성모의 죽음",
+        "titleEN": "Death of the Virgin",
+        "artist": "Caravaggio",
+        "date": "1601-1606",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Death_of_the_Virgin-Caravaggio_(1606).jpg"
+      },
+      {
+        "id": "louvre_07",
+        "title": "키테라 섬 순례",
+        "titleEN": "Pilgrimage to Cythera",
+        "artist": "Antoine Watteau",
+        "date": "1717",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Antoine_Watteau_-_Pilgrimage_to_Cythera_-_WGA25454.jpg"
+      },
+      {
+        "id": "louvre_08",
+        "title": "아르카디아의 목자들",
+        "titleEN": "Et in Arcadia Ego",
+        "artist": "Nicolas Poussin",
+        "date": "c. 1637-1638",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Nicolas_Poussin_-_'Et_in_Arcadia_Ego'_-_WGA18305.jpg"
+      },
+      {
+        "id": "louvre_09",
+        "title": "레이스 뜨는 여인",
+        "titleEN": "The Lacemaker",
+        "artist": "Johannes Vermeer",
+        "date": "c. 1669-1671",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Johannes_Vermeer_-_The_lacemaker_(c.1669-1671).jpg"
+      },
+      {
+        "id": "louvre_10",
+        "title": "천문학자",
+        "titleEN": "The Astronomer",
+        "artist": "Johannes Vermeer",
+        "date": "1668",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Johannes_Vermeer_-_The_Astronomer_-_WGA24685.jpg"
+      },
+      {
+        "id": "louvre_11",
+        "title": "메두사의 뗏목",
+        "titleEN": "The Raft of the Medusa",
+        "artist": "Théodore Géricault",
+        "date": "1818-1819",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Théodore_Géricault_-_Le_Radeau_de_la_Méduse.jpg"
+      },
+      {
+        "id": "louvre_12",
+        "title": "사르다나팔루스의 죽음",
+        "titleEN": "The Death of Sardanapalus",
+        "artist": "Eugène Delacroix",
+        "date": "1827",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Eugène_Delacroix_-_La_Mort_de_Sardanapale.jpg"
+      },
+      {
+        "id": "louvre_13",
+        "title": "루이 14세의 초상",
+        "titleEN": "Portrait of Louis XIV",
+        "artist": "Hyacinthe Rigaud",
+        "date": "1701",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Hyacinthe_Rigaud_001.jpg"
+      },
+      {
+        "id": "louvre_14",
+        "title": "바위 동굴의 성모",
+        "titleEN": "Virgin of the Rocks",
+        "artist": "Leonardo da Vinci",
+        "date": "1483-1486",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Leonardo_da_Vinci_-_Virgin_of_the_Rocks_(Louvre).jpg"
+      },
+      {
+        "id": "louvre_15",
+        "title": "호메로스의 신격화",
+        "titleEN": "The Apotheosis of Homer",
+        "artist": "Jean-Auguste-Dominique Ingres",
+        "date": "1827",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg"
+      },
+      {
+        "id": "louvre_16",
+        "title": "야파의 나폴레옹",
+        "titleEN": "Napoleon Visiting the Plague-Stricken in Jaffa",
+        "artist": "Antoine-Jean Gros",
+        "date": "1804",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Antoine-Jean_Gros_-_Bonaparte_visitant_les_pestiférés_de_Jaffa.jpg"
+      },
+      {
+        "id": "louvre_17",
+        "title": "나폴레옹 대관식",
+        "titleEN": "The Coronation of Napoleon",
+        "artist": "Jacques-Louis David",
+        "date": "1805-1807",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg"
+      },
+      {
+        "id": "louvre_18",
+        "title": "호라티이의 맹세",
+        "titleEN": "Oath of the Horatii",
+        "artist": "Jacques-Louis David",
+        "date": "1784",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "louvre_19",
+        "title": "사비니 여인의 납치",
+        "titleEN": "The Abduction of the Sabine Women",
+        "artist": "Nicolas Poussin",
+        "date": "1637-1638",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rape_of_the_Sabine_women,_Poussin,_Louvre.jpg"
+      },
+      {
+        "id": "louvre_20",
+        "title": "성 세바스티아누스",
+        "titleEN": "Saint Sebastian",
+        "artist": "Andrea Mantegna",
+        "date": "c. 1480",
+        "medium": "Tempera on canvas",
+        "wikimediaFile": "Andrea_Mantegna_-_St._Sebastian_-_Google_Art_Project.jpg"
+      }
+    ]
+  }
+]
