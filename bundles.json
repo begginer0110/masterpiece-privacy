@@ -1168,5 +1168,200 @@
         "wikimediaFile": "Andrea_Mantegna_-_St._Sebastian_-_Google_Art_Project.jpg"
       }
     ]
+  },
+  {
+    "id": "com.masterpiece.bundle.klimt",
+    "name": "클림트 컬렉션",
+    "subtitle": "키스, 아델레 블로흐-바우어 외 18점",
+    "category": "작가별",
+    "artworkCount": 20,
+    "previewFileNames": [
+      "The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+      "Gustav_Klimt,_1907,_Adele_Bloch-Bauer_I,_Neue_Galerie_New_York.jpg",
+      "Gustav_Klimt_039.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "klimt_01",
+        "title": "키스",
+        "titleEN": "The Kiss",
+        "artist": "Gustav Klimt",
+        "date": "1907–1908",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg"
+      },
+      {
+        "id": "klimt_02",
+        "title": "아델레 블로흐-바우어 I",
+        "titleEN": "Portrait of Adele Bloch-Bauer I",
+        "artist": "Gustav Klimt",
+        "date": "1907",
+        "medium": "Oil, silver and gold on canvas",
+        "wikimediaFile": "Gustav_Klimt,_1907,_Adele_Bloch-Bauer_I,_Neue_Galerie_New_York.jpg"
+      },
+      {
+        "id": "klimt_03",
+        "title": "유디트 I",
+        "titleEN": "Judith I",
+        "artist": "Gustav Klimt",
+        "date": "1901",
+        "medium": "Oil on canvas with gold leaf",
+        "wikimediaFile": "Gustav_Klimt_039.jpg"
+      },
+      {
+        "id": "klimt_04",
+        "title": "처녀",
+        "titleEN": "The Virgin",
+        "artist": "Gustav Klimt",
+        "date": "1913",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "KlimtDieJungfrau.jpg"
+      },
+      {
+        "id": "klimt_05",
+        "title": "여인의 세 시기",
+        "titleEN": "The Three Ages of Woman",
+        "artist": "Gustav Klimt",
+        "date": "1905",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Three_Ages_of_Woman.jpg"
+      },
+      {
+        "id": "klimt_06",
+        "title": "죽음과 삶",
+        "titleEN": "Death and Life",
+        "artist": "Gustav Klimt",
+        "date": "1910–1915",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt_-_Death_and_Life_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "klimt_07",
+        "title": "다나에",
+        "titleEN": "Danae",
+        "artist": "Gustav Klimt",
+        "date": "1907–1908",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Klimt_Danae.jpg"
+      },
+      {
+        "id": "klimt_08",
+        "title": "물뱀 II",
+        "titleEN": "Water Serpents II",
+        "artist": "Gustav Klimt",
+        "date": "1904–1907",
+        "medium": "Gouache on parchment",
+        "wikimediaFile": "Gustav_Klimt_-_Water_Serpents_II.jpg"
+      },
+      {
+        "id": "klimt_09",
+        "title": "희망 II",
+        "titleEN": "Hope II",
+        "artist": "Gustav Klimt",
+        "date": "1907–1908",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt_-_Hope,_II_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "klimt_10",
+        "title": "베토벤 프리즈",
+        "titleEN": "Beethoven Frieze",
+        "artist": "Gustav Klimt",
+        "date": "1902",
+        "medium": "Casein paint on plaster",
+        "wikimediaFile": "Beethovenfries.jpg"
+      },
+      {
+        "id": "klimt_11",
+        "title": "아델레 블로흐-바우어 II",
+        "titleEN": "Portrait of Adele Bloch-Bauer II",
+        "artist": "Gustav Klimt",
+        "date": "1912",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt_047.jpg"
+      },
+      {
+        "id": "klimt_12",
+        "title": "유디트 II (살로메)",
+        "titleEN": "Judith II (Salomé)",
+        "artist": "Gustav Klimt",
+        "date": "1909",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt,_Judith_II.jpg"
+      },
+      {
+        "id": "klimt_13",
+        "title": "누다 베리타스",
+        "titleEN": "Nuda Veritas",
+        "artist": "Gustav Klimt",
+        "date": "1899",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Klimt_-_Nuda_Veritas_-_1899.jpeg"
+      },
+      {
+        "id": "klimt_14",
+        "title": "자작나무 숲",
+        "titleEN": "Birch Forest",
+        "artist": "Gustav Klimt",
+        "date": "1903",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt,_Birch_Forest,_1903_-_Paul_G._Allen_Collection.jpg"
+      },
+      {
+        "id": "klimt_15",
+        "title": "양귀비 들판",
+        "titleEN": "Poppy Field (Mohnwiese)",
+        "artist": "Gustav Klimt",
+        "date": "1907",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt_-_Blühender_Mohn_-_5166_-_Österreichische_Galerie_Belvedere.jpg"
+      },
+      {
+        "id": "klimt_16",
+        "title": "해바라기 정원",
+        "titleEN": "Farm Garden with Sunflowers",
+        "artist": "Gustav Klimt",
+        "date": "1907",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt,_1907,_Farm_Garden_with_Sunflowers,_Österreichische_Galerie_Belvedere.jpg"
+      },
+      {
+        "id": "klimt_17",
+        "title": "나무 아래 장미",
+        "titleEN": "Rosebushes under the Trees",
+        "artist": "Gustav Klimt",
+        "date": "c.1905",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustav_Klimt_-_Rosebushes_under_the_Trees_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "klimt_18",
+        "title": "희망 I",
+        "titleEN": "Hope I",
+        "artist": "Gustav Klimt",
+        "date": "1903",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Klimt_-_Hoffnung_I_-_1903.jpeg"
+      },
+      {
+        "id": "klimt_19",
+        "title": "팔라스 아테나",
+        "titleEN": "Pallas Athene",
+        "artist": "Gustav Klimt",
+        "date": "1898",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Klimt_-_Pallas_Athene.jpeg"
+      },
+      {
+        "id": "klimt_20",
+        "title": "물뱀 I",
+        "titleEN": "Water Serpents I",
+        "artist": "Gustav Klimt",
+        "date": "1904–1907",
+        "medium": "Gouache on parchment",
+        "wikimediaFile": "Klimt_-_Wasserschlangen_I_(Freundinnen).jpeg"
+      }
+    ]
   }
 ]
