@@ -1762,5 +1762,201 @@
         "wikimediaFile": "Ambrosius_Bosschaert_de_Oude_-_Vase_of_Flowers_in_a_Window_-_679_-_Mauritshuis.jpg"
       }
     ]
+  },
+  {
+    "id": "com.masterpiece.bundle.rembrandt",
+    "name": "렘브란트 컬렉션",
+    "subtitle": "야경, 해부학 수업 외 18점",
+    "category": "작가별",
+    "version": 1,
+    "artworkCount": 20,
+    "previewFileNames": [
+      "The_Night_Watch_-_HD.jpg",
+      "Rembrandt_van_Rijn_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp_-_146_-_Mauritshuis.jpg",
+      "Rembrandt_Self_Portrait_with_Two_Circles.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "rembrandt_01",
+        "title": "야경",
+        "titleEN": "The Night Watch",
+        "artist": "Rembrandt van Rijn",
+        "date": "1642",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Night_Watch_-_HD.jpg"
+      },
+      {
+        "id": "rembrandt_02",
+        "title": "투프 박사의 해부학 수업",
+        "titleEN": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+        "artist": "Rembrandt van Rijn",
+        "date": "1632",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_van_Rijn_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp_-_146_-_Mauritshuis.jpg"
+      },
+      {
+        "id": "rembrandt_03",
+        "title": "자화상 (두 원)",
+        "titleEN": "Self-Portrait with Two Circles",
+        "artist": "Rembrandt van Rijn",
+        "date": "c.1665–1669",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_Self_Portrait_with_Two_Circles.jpg"
+      },
+      {
+        "id": "rembrandt_04",
+        "title": "자화상 (63세)",
+        "titleEN": "Self-Portrait at the Age of 63",
+        "artist": "Rembrandt van Rijn",
+        "date": "1669",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Self_Portrait_at_the_Age_of_63.jpg"
+      },
+      {
+        "id": "rembrandt_05",
+        "title": "유대인 신부",
+        "titleEN": "The Jewish Bride",
+        "artist": "Rembrandt van Rijn",
+        "date": "c.1665",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_'Het_Joodse_bruidje'_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_06",
+        "title": "돌아온 탕자",
+        "titleEN": "The Return of the Prodigal Son",
+        "artist": "Rembrandt van Rijn",
+        "date": "c.1668",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_07",
+        "title": "다윗의 편지를 받는 밧세바",
+        "titleEN": "Bathsheba with the Letter of David",
+        "artist": "Rembrandt van Rijn",
+        "date": "1654",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Bathsheba_with_the_letter_of_David,_by_Rembrandt.jpg"
+      },
+      {
+        "id": "rembrandt_08",
+        "title": "다나에",
+        "titleEN": "Danaë",
+        "artist": "Rembrandt van Rijn",
+        "date": "1636",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_van_Rijn_-_Danaë_1636-1643.jpg"
+      },
+      {
+        "id": "rembrandt_09",
+        "title": "삼손의 눈 뽑힘",
+        "titleEN": "The Blinding of Samson",
+        "artist": "Rembrandt van Rijn",
+        "date": "1636",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_Harmensz._van_Rijn_-_The_Blinding_of_Samson_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_10",
+        "title": "가니메데의 납치",
+        "titleEN": "The Abduction of Ganymede",
+        "artist": "Rembrandt van Rijn",
+        "date": "1635",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_-_The_Abduction_of_Ganymede_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_11",
+        "title": "아리스토텔레스가 호메로스 흉상을 명상함",
+        "titleEN": "Aristotle with a Bust of Homer",
+        "artist": "Rembrandt van Rijn",
+        "date": "1653",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_12",
+        "title": "폴란드 기사",
+        "titleEN": "The Polish Rider",
+        "artist": "Rembrandt van Rijn",
+        "date": "c.1655",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_-_De_Poolse_ruiter,_c.1655_(Frick_Collection).jpg"
+      },
+      {
+        "id": "rembrandt_13",
+        "title": "베드로의 부인",
+        "titleEN": "The Denial of Saint Peter",
+        "artist": "Rembrandt van Rijn",
+        "date": "1660",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "De_verloochening_van_Petrus_Rijksmuseum_SK-A-3137.jpeg"
+      },
+      {
+        "id": "rembrandt_14",
+        "title": "예레미야가 예루살렘의 멸망을 슬퍼함",
+        "titleEN": "Jeremiah Lamenting the Destruction of Jerusalem",
+        "artist": "Rembrandt van Rijn",
+        "date": "1630",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Rembrandt_Harmensz._van_Rijn_-_Jeremia_treurend_over_de_verwoesting_van_Jeruzalem_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_15",
+        "title": "사도 바울로서의 자화상",
+        "titleEN": "Self-Portrait as the Apostle Paul",
+        "artist": "Rembrandt van Rijn",
+        "date": "1661",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_-_Self-Portrait_as_the_Apostle_Paul_-_WGA19222.jpg"
+      },
+      {
+        "id": "rembrandt_16",
+        "title": "플로라 (사스키아)",
+        "titleEN": "Flora (Saskia as Flora)",
+        "artist": "Rembrandt van Rijn",
+        "date": "1634",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Saskia_van_Uylenburgh_(1612-1642)_as_Flora,_by_Rembrandt.jpg"
+      },
+      {
+        "id": "rembrandt_17",
+        "title": "조선소장과 그의 아내",
+        "titleEN": "The Shipbuilder and His Wife",
+        "artist": "Rembrandt van Rijn",
+        "date": "1633",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_-_The_Shipbuilder_and_his_Wife-_Jan_Rijcksen_(1560-2-1637)_and_his_Wife,_Griet_Jans_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_18",
+        "title": "연구실의 학자",
+        "titleEN": "Scholar at His Study",
+        "artist": "Rembrandt van Rijn",
+        "date": "c.1634",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Rembrandt_Harmensz_van_Rijn_-_Scholar_at_his_Study_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "rembrandt_19",
+        "title": "포목상 조합원들",
+        "titleEN": "The Syndics of the Drapers' Guild",
+        "artist": "Rembrandt van Rijn",
+        "date": "1662",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_-_De_Staalmeesters_-_The_Syndics_of_the_Clothmaker's_Guild.jpg"
+      },
+      {
+        "id": "rembrandt_20",
+        "title": "삼손의 결혼 (수수께끼)",
+        "titleEN": "The Wedding of Samson",
+        "artist": "Rembrandt van Rijn",
+        "date": "1638",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Rembrandt_Harmensz._van_Rijn_146.jpg"
+      }
+    ]
   }
 ]
