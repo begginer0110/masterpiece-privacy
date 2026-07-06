@@ -2154,5 +2154,201 @@
         "wikimediaFile": "Seurat,_Georges_-_The_Channel_of_Gravelines,_Petit_Fort_Philippe_-_Google_Art_Project.jpg"
       }
     ]
+  },
+  {
+    "id": "com.masterpiece.bundle.sea",
+    "name": "바다 컬렉션",
+    "subtitle": "대파도, 전함 테메레르 외 18점",
+    "category": "주제·테마",
+    "version": 1,
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Katsushika_Hokusai_The_Great_Wave_off_Kanagawa_1830.jpg",
+      "Aivazovsky,_Ivan_-_The_Ninth_Wave.jpg",
+      "The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "sea_01",
+        "title": "가나가와 해변의 높은 파도 아래",
+        "titleEN": "The Great Wave off Kanagawa",
+        "artist": "Katsushika Hokusai",
+        "date": "c.1831",
+        "medium": "Woodblock print",
+        "wikimediaFile": "Katsushika_Hokusai_The_Great_Wave_off_Kanagawa_1830.jpg"
+      },
+      {
+        "id": "sea_02",
+        "title": "아홉 번째 파도",
+        "titleEN": "The Ninth Wave",
+        "artist": "Ivan Aivazovsky",
+        "date": "1850",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Aivazovsky,_Ivan_-_The_Ninth_Wave.jpg"
+      },
+      {
+        "id": "sea_03",
+        "title": "흑해",
+        "titleEN": "The Black Sea",
+        "artist": "Ivan Aivazovsky",
+        "date": "1881",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Aivazovsky_-_The_Black_Sea.jpg"
+      },
+      {
+        "id": "sea_04",
+        "title": "파도 사이에서",
+        "titleEN": "Among the Waves",
+        "artist": "Ivan Aivazovsky",
+        "date": "1898",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Ivan_Konstantinovich_Aivazovsky_-_Among_the_Waves,_1898.jpg"
+      },
+      {
+        "id": "sea_05",
+        "title": "전함 테메레르",
+        "titleEN": "The Fighting Temeraire",
+        "artist": "J.M.W. Turner",
+        "date": "1839",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg"
+      },
+      {
+        "id": "sea_06",
+        "title": "눈보라: 항구 어귀의 증기선",
+        "titleEN": "Snow Storm – Steam-Boat off a Harbour's Mouth",
+        "artist": "J.M.W. Turner",
+        "date": "1842",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Joseph_Mallord_William_Turner_-_Snow_Storm_-_Steam-Boat_off_a_Harbour's_Mouth_-_WGA23178.jpg"
+      },
+      {
+        "id": "sea_07",
+        "title": "강풍 속의 네덜란드 배들",
+        "titleEN": "Dutch Boats in a Gale",
+        "artist": "J.M.W. Turner",
+        "date": "1801",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Joseph_Mallord_William_Turner_-_Dutch_Boats_in_a_Gale_-_WGA23163.jpg"
+      },
+      {
+        "id": "sea_08",
+        "title": "노예선",
+        "titleEN": "The Slave Ship",
+        "artist": "J.M.W. Turner",
+        "date": "1840",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Slave-ship.jpg"
+      },
+      {
+        "id": "sea_09",
+        "title": "파도",
+        "titleEN": "The Wave",
+        "artist": "Gustave Courbet",
+        "date": "1870",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustave_Courbet_-_The_Wave_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "sea_10",
+        "title": "폭풍 후 에트르타 절벽",
+        "titleEN": "The Etretat Cliffs after the Storm",
+        "artist": "Gustave Courbet",
+        "date": "1870",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustave_Courbet_-_The_Etretat_Cliffs_after_the_Storm_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "sea_11",
+        "title": "멕시코 만류",
+        "titleEN": "The Gulf Stream",
+        "artist": "Winslow Homer",
+        "date": "1899",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Winslow_Homer_-_The_Gulf_Stream_(1899).jpg"
+      },
+      {
+        "id": "sea_12",
+        "title": "순풍",
+        "titleEN": "Breezing Up (A Fair Wind)",
+        "artist": "Winslow Homer",
+        "date": "1876",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Winslow_Homer_-_Breezing_Up_(A_Fair_Wind).jpg"
+      },
+      {
+        "id": "sea_13",
+        "title": "인상, 해돋이",
+        "titleEN": "Impression, Sunrise",
+        "artist": "Claude Monet",
+        "date": "1872",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Monet_-_Impression,_Sunrise.jpg"
+      },
+      {
+        "id": "sea_14",
+        "title": "트루빌 해변",
+        "titleEN": "The Beach at Trouville",
+        "artist": "Claude Monet",
+        "date": "1870",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Beach_at_Trouville_1948.116.jpg"
+      },
+      {
+        "id": "sea_15",
+        "title": "바닷가의 수도사",
+        "titleEN": "Monk by the Sea",
+        "artist": "Caspar David Friedrich",
+        "date": "1810",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Caspar_David_Friedrich_-_Monk_by_the_Sea.jpg"
+      },
+      {
+        "id": "sea_16",
+        "title": "케아사지호와 앨라배마호의 전투",
+        "titleEN": "The Battle of the Kearsarge and the Alabama",
+        "artist": "Édouard Manet",
+        "date": "1864",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Édouard_Manet,_French_-_The_Battle_of_the_U.S.S._Kearsarge_and_the_C.S.S._Alabama_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "sea_17",
+        "title": "트루빌 해변 풍경",
+        "titleEN": "A Beach Scene at Trouville",
+        "artist": "Eugène Boudin",
+        "date": "c.1865",
+        "medium": "Oil on panel",
+        "wikimediaFile": "Eugène_Louis_Boudin_(1824-1898)_-_A_Beach_Scene_at_Trouville_-_WA1962.17.5_-_Ashmolean_Museum.jpg"
+      },
+      {
+        "id": "sea_18",
+        "title": "스루가 삿타 고개의 바다",
+        "titleEN": "The Sea at Satta, Suruga Province",
+        "artist": "Utagawa Hiroshige",
+        "date": "1858",
+        "medium": "Woodblock print",
+        "wikimediaFile": "Ando_Hiroshige_-_The_Sea_at_Satta,_Suruga_Province,_from_the_series_Thirty-six_Views_of_Mount_Fuji_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "sea_19",
+        "title": "마르세유 항구 입구",
+        "titleEN": "Entrance to the Port of Marseille",
+        "artist": "Paul Signac",
+        "date": "1911",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Paul_Signac_Entrée_du_port_de_Marseille.jpg"
+      },
+      {
+        "id": "sea_20",
+        "title": "그라블린 운하",
+        "titleEN": "The Channel of Gravelines, Petit Fort Philippe",
+        "artist": "Georges Seurat",
+        "date": "1890",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Seurat,_Georges_-_The_Channel_of_Gravelines,_Petit_Fort_Philippe_-_Google_Art_Project.jpg"
+      }
+    ]
   }
 ]
