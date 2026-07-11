@@ -2156,198 +2156,198 @@
     ]
   },
   {
-    "id": "com.masterpiece.bundle.sea",
-    "name": "바다 컬렉션",
-    "subtitle": "대파도, 전함 테메레르 외 18점",
-    "category": "주제·테마",
+    "id": "com.masterpiece.bundle.summer",
+    "name": "여름 명화 컬렉션",
+    "subtitle": "쇠라, 소로야, 모네 외 17점",
+    "category": "계절·날씨",
     "version": 1,
     "artworkCount": 20,
     "previewFileNames": [
-      "Katsushika_Hokusai_The_Great_Wave_off_Kanagawa_1830.jpg",
-      "Aivazovsky,_Ivan_-_The_Ninth_Wave.jpg",
-      "The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg"
+      "Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg",
+      "Joaquín_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg",
+      "Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg"
     ],
     "priceLabel": "₩1,900",
     "artworks": [
       {
-        "id": "sea_01",
-        "title": "가나가와 해변의 높은 파도 아래",
-        "titleEN": "The Great Wave off Kanagawa",
-        "artist": "Katsushika Hokusai",
-        "date": "c.1831",
-        "medium": "Woodblock print",
-        "wikimediaFile": "Katsushika_Hokusai_The_Great_Wave_off_Kanagawa_1830.jpg"
-      },
-      {
-        "id": "sea_02",
-        "title": "아홉 번째 파도",
-        "titleEN": "The Ninth Wave",
-        "artist": "Ivan Aivazovsky",
-        "date": "1850",
+        "id": "summer_01",
+        "title": "그랑드자트 섬의 일요일 오후",
+        "titleEN": "A Sunday on La Grande Jatte",
+        "artist": "Georges Seurat",
+        "date": "1886",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Aivazovsky,_Ivan_-_The_Ninth_Wave.jpg"
+        "wikimediaFile": "Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg"
       },
       {
-        "id": "sea_03",
-        "title": "흑해",
-        "titleEN": "The Black Sea",
-        "artist": "Ivan Aivazovsky",
-        "date": "1881",
+        "id": "summer_02",
+        "title": "아니에르에서의 물놀이",
+        "titleEN": "Bathers at Asnières",
+        "artist": "Georges Seurat",
+        "date": "1884",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Aivazovsky_-_The_Black_Sea.jpg"
+        "wikimediaFile": "Georges_Seurat_-_Une_baignade_à_Asnières_-_National_Gallery.jpg"
       },
       {
-        "id": "sea_04",
-        "title": "파도 사이에서",
-        "titleEN": "Among the Waves",
-        "artist": "Ivan Aivazovsky",
-        "date": "1898",
+        "id": "summer_03",
+        "title": "바닷가 산책",
+        "titleEN": "Strolling along the Seashore",
+        "artist": "Joaquín Sorolla",
+        "date": "1909",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Ivan_Konstantinovich_Aivazovsky_-_Among_the_Waves,_1898.jpg"
+        "wikimediaFile": "Joaquín_Sorolla_y_Bastida_-_Strolling_along_the_Seashore_-_Google_Art_Project.jpg"
       },
       {
-        "id": "sea_05",
-        "title": "전함 테메레르",
-        "titleEN": "The Fighting Temeraire",
-        "artist": "J.M.W. Turner",
-        "date": "1839",
+        "id": "summer_04",
+        "title": "해변의 아이들",
+        "titleEN": "Boys on the Beach",
+        "artist": "Joaquín Sorolla",
+        "date": "1910",
         "medium": "Oil on canvas",
-        "wikimediaFile": "The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg"
+        "wikimediaFile": "Joaquín_Sorolla_-_Chicos_en_la_playa.jpg"
       },
       {
-        "id": "sea_06",
-        "title": "눈보라: 항구 어귀의 증기선",
-        "titleEN": "Snow Storm – Steam-Boat off a Harbour's Mouth",
-        "artist": "J.M.W. Turner",
-        "date": "1842",
+        "id": "summer_05",
+        "title": "돛을 꿰매다",
+        "titleEN": "Sewing the Sail",
+        "artist": "Joaquín Sorolla",
+        "date": "1896",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Joseph_Mallord_William_Turner_-_Snow_Storm_-_Steam-Boat_off_a_Harbour's_Mouth_-_WGA23178.jpg"
+        "wikimediaFile": "Sewing_the_Sail_by_Joaquín_Sorolla_y_Bastida,_1896.jpg"
       },
       {
-        "id": "sea_07",
-        "title": "강풍 속의 네덜란드 배들",
-        "titleEN": "Dutch Boats in a Gale",
-        "artist": "J.M.W. Turner",
-        "date": "1801",
+        "id": "summer_06",
+        "title": "트루빌 해변",
+        "titleEN": "The Beach at Trouville",
+        "artist": "Eugène Boudin",
+        "date": null,
+        "medium": "Oil on panel",
+        "wikimediaFile": "Eugène_Boudin_-_The_Beach_at_Trouville_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "summer_07",
+        "title": "생타드레스의 정원",
+        "titleEN": "Garden at Sainte-Adresse",
+        "artist": "Claude Monet",
+        "date": "1867",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Joseph_Mallord_William_Turner_-_Dutch_Boats_in_a_Gale_-_WGA23163.jpg"
+        "wikimediaFile": "Garden_at_Sainte-Adresse.JPG"
       },
       {
-        "id": "sea_08",
-        "title": "노예선",
-        "titleEN": "The Slave Ship",
-        "artist": "J.M.W. Turner",
-        "date": "1840",
+        "id": "summer_08",
+        "title": "양산을 든 여인",
+        "titleEN": "Woman with a Parasol – Madame Monet and Her Son",
+        "artist": "Claude Monet",
+        "date": "1875",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Slave-ship.jpg"
+        "wikimediaFile": "Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg"
       },
       {
-        "id": "sea_09",
-        "title": "파도",
-        "titleEN": "The Wave",
-        "artist": "Gustave Courbet",
-        "date": "1870",
+        "id": "summer_09",
+        "title": "그네",
+        "titleEN": "The Swing",
+        "artist": "Pierre-Auguste Renoir",
+        "date": "1876",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Gustave_Courbet_-_The_Wave_-_Google_Art_Project.jpg"
+        "wikimediaFile": "Auguste_Renoir_-_The_Swing_-_Google_Art_Project.jpg"
       },
       {
-        "id": "sea_10",
-        "title": "폭풍 후 에트르타 절벽",
-        "titleEN": "The Etretat Cliffs after the Storm",
-        "artist": "Gustave Courbet",
-        "date": "1870",
+        "id": "summer_10",
+        "title": "산들바람 (순풍)",
+        "titleEN": "Breezing Up (A Fair Wind)",
+        "artist": "Winslow Homer",
+        "date": "1876",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Gustave_Courbet_-_The_Etretat_Cliffs_after_the_Storm_-_Google_Art_Project.jpg"
+        "wikimediaFile": "Winslow_Homer_-_Breezing_Up_(A_Fair_Wind)_-_Google_Art_Project.jpg"
       },
       {
-        "id": "sea_11",
+        "id": "summer_11",
         "title": "멕시코 만류",
         "titleEN": "The Gulf Stream",
         "artist": "Winslow Homer",
         "date": "1899",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Winslow_Homer_-_The_Gulf_Stream_(1899).jpg"
+        "wikimediaFile": "Winslow_Homer_-_The_Gulf_Stream_-_Metropolitan_Museum_of_Art.jpg"
       },
       {
-        "id": "sea_12",
-        "title": "순풍",
-        "titleEN": "Breezing Up (A Fair Wind)",
-        "artist": "Winslow Homer",
-        "date": "1876",
+        "id": "summer_12",
+        "title": "카네이션, 릴리, 릴리, 로즈",
+        "titleEN": "Carnation, Lily, Lily, Rose",
+        "artist": "John Singer Sargent",
+        "date": "1886",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Winslow_Homer_-_Breezing_Up_(A_Fair_Wind).jpg"
+        "wikimediaFile": "John_Singer_Sargent_-_Carnation,_Lily,_Lily,_Rose_-_Google_Art_Project.jpg"
       },
       {
-        "id": "sea_13",
-        "title": "인상, 해돋이",
-        "titleEN": "Impression, Sunrise",
-        "artist": "Claude Monet",
-        "date": "1872",
+        "id": "summer_13",
+        "title": "캉칼의 굴 채취꾼들",
+        "titleEN": "The Oyster Gatherers of Cancale",
+        "artist": "John Singer Sargent",
+        "date": "1878",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Monet_-_Impression,_Sunrise.jpg"
+        "wikimediaFile": "John_Singer_Sargent_-_Cancale.jpg"
       },
       {
-        "id": "sea_14",
-        "title": "트루빌 해변",
-        "titleEN": "The Beach at Trouville",
-        "artist": "Claude Monet",
-        "date": "1870",
+        "id": "summer_14",
+        "title": "해변에서 노는 아이들",
+        "titleEN": "Children Playing on the Beach",
+        "artist": "Mary Cassatt",
+        "date": "1884",
         "medium": "Oil on canvas",
-        "wikimediaFile": "The_Beach_at_Trouville_1948.116.jpg"
+        "wikimediaFile": "Children_Playing_on_the_Beach_A14816.jpg"
       },
       {
-        "id": "sea_15",
-        "title": "바닷가의 수도사",
-        "titleEN": "Monk by the Sea",
-        "artist": "Caspar David Friedrich",
-        "date": "1810",
+        "id": "summer_15",
+        "title": "여름날",
+        "titleEN": "Summer's Day",
+        "artist": "Berthe Morisot",
+        "date": "1879",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Caspar_David_Friedrich_-_Monk_by_the_Sea.jpg"
+        "wikimediaFile": "Berthe_Morisot_-_Jour_d'été,_1879.jpg"
       },
       {
-        "id": "sea_16",
-        "title": "케아사지호와 앨라배마호의 전투",
-        "titleEN": "The Battle of the Kearsarge and the Alabama",
-        "artist": "Édouard Manet",
-        "date": "1864",
+        "id": "summer_16",
+        "title": "여름 풍경 (물놀이)",
+        "titleEN": "Summer Scene (Bathers)",
+        "artist": "Frédéric Bazille",
+        "date": "1869",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Edouard_Manet_056.jpg"
+        "wikimediaFile": "Frederic_Bazille_Summer_Scene_(Bathers).jpg"
       },
       {
-        "id": "sea_17",
-        "title": "트루빌 해변 풍경",
-        "titleEN": "A Beach Scene at Trouville",
-        "artist": "Eugène Boudin",
-        "date": "c.1865",
-        "medium": "Oil on panel",
-        "wikimediaFile": "Eugène_Louis_Boudin_(1824-1898)_-_A_Beach_Scene_at_Trouville_-_WA1962.17.5_-_Ashmolean_Museum.jpg"
-      },
-      {
-        "id": "sea_18",
-        "title": "스루가 삿타 고개의 바다",
-        "titleEN": "The Sea at Satta, Suruga Province",
-        "artist": "Utagawa Hiroshige",
-        "date": "1858",
-        "medium": "Woodblock print",
-        "wikimediaFile": "23_-_The_Sea_off_Satta.jpg"
-      },
-      {
-        "id": "sea_19",
-        "title": "마르세유 항구 입구",
-        "titleEN": "Entrance to the Port of Marseille",
-        "artist": "Paul Signac",
-        "date": "1911",
+        "id": "summer_17",
+        "title": "노 젓는 사람들",
+        "titleEN": "Oarsmen (Les Périssoires)",
+        "artist": "Gustave Caillebotte",
+        "date": "1878",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Paul_Signac_Entrée_du_port_de_Marseille.jpg"
+        "wikimediaFile": "G._Caillebotte_-_Les_Périssoires_(1878).jpg"
       },
       {
-        "id": "sea_20",
-        "title": "그라블린 운하",
-        "titleEN": "The Channel of Gravelines, Petit Fort Philippe",
-        "artist": "Georges Seurat",
-        "date": "1890",
+        "id": "summer_18",
+        "title": "여름",
+        "titleEN": "Summer (from The Seasons)",
+        "artist": "Alphonse Mucha",
+        "date": "1896",
+        "medium": "Color lithograph",
+        "wikimediaFile": "Alfons_Mucha_-_1896_-_Summer.jpg"
+      },
+      {
+        "id": "summer_19",
+        "title": "에라니의 건초 수확",
+        "titleEN": "Hay Harvest at Éragny",
+        "artist": "Camille Pissarro",
+        "date": "1901",
         "medium": "Oil on canvas",
-        "wikimediaFile": "Seurat,_Georges_-_The_Channel_of_Gravelines,_Petit_Fort_Philippe_-_Google_Art_Project.jpg"
+        "wikimediaFile": "Hay_Harvest_at_Éragny,_1901,_Camille_Pissarro.jpg"
+      },
+      {
+        "id": "summer_20",
+        "title": "여름날 (뱃놀이)",
+        "titleEN": "Summertime",
+        "artist": "Mary Cassatt",
+        "date": "1894",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Mary_Cassatt_-_Summertime_-_1894.jpg"
       }
     ]
   }
