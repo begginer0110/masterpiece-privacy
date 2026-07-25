@@ -2350,5 +2350,201 @@
         "wikimediaFile": "Mary_Cassatt_-_Summertime_-_1894.jpg"
       }
     ]
+  },
+  {
+    "id": "com.masterpiece.bundle.stilllife",
+    "name": "정물화 컬렉션",
+    "subtitle": "세잔, 카라바조, 샤르댕 외 17점",
+    "category": "주제·테마",
+    "version": 1,
+    "artworkCount": 20,
+    "previewFileNames": [
+      "Canestra di frutta (Caravaggio).jpg",
+      "Nature morte aux pommes et aux oranges, par Paul Cézanne.jpg",
+      "Francisco de Zurbarán - Still Life with Lemons, Oranges and a Rose.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "stilllife_01",
+        "title": "사과와 오렌지 정물",
+        "titleEN": "Still Life with Apples and Oranges",
+        "artist": "Paul Cézanne",
+        "date": "c.1899",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Nature morte aux pommes et aux oranges, par Paul Cézanne.jpg"
+      },
+      {
+        "id": "stilllife_02",
+        "title": "사과 바구니",
+        "titleEN": "The Basket of Apples",
+        "artist": "Paul Cézanne",
+        "date": "c.1893",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Paul Cézanne, The Basket of Apples.jpg"
+      },
+      {
+        "id": "stilllife_03",
+        "title": "양파가 있는 정물",
+        "titleEN": "Still Life with Onions",
+        "artist": "Paul Cézanne",
+        "date": "1896-98",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Paul Cézanne - Still Life with Onions - Google Art Project.jpg"
+      },
+      {
+        "id": "stilllife_04",
+        "title": "가오리",
+        "titleEN": "The Ray",
+        "artist": "Jean-Siméon Chardin",
+        "date": "1728",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jean Siméon Chardin - The Ray - WGA04738.jpg"
+      },
+      {
+        "id": "stilllife_05",
+        "title": "복숭아와 은잔이 있는 정물",
+        "titleEN": "Still Life with Peaches, a Silver Goblet, Grapes, and Walnuts",
+        "artist": "Jean-Siméon Chardin",
+        "date": null,
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jean-Siméon Chardin - Still Life with Peaches, a Silver Goblet, Grapes, and Walnuts - 86.PA.544 - J. Paul Getty Museum.jpg"
+      },
+      {
+        "id": "stilllife_06",
+        "title": "중국 도자기가 있는 정물",
+        "titleEN": "Still Life with a Chinese Porcelain Jar",
+        "artist": "Willem Kalf",
+        "date": "c.1662",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Willem Kalf (1619 - 1693) - Still life with a Chinese porcelain box - 948F - Gemäldegalerie.jpg"
+      },
+      {
+        "id": "stilllife_07",
+        "title": "화려한 정물 (디저트가 있는 식탁)",
+        "titleEN": "A Table of Desserts",
+        "artist": "Jan Davidsz. de Heem",
+        "date": "1640",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jan Davidsz. de Heem - A Table of Desserts - WGA11289.jpg"
+      },
+      {
+        "id": "stilllife_08",
+        "title": "바니타스 정물",
+        "titleEN": "Vanitas Still Life",
+        "artist": "Pieter Claesz",
+        "date": "1630",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Den Haag - Mauritshuis - Pieter Claesz (1597-1660) - Vanitas Still Life 1630.jpg"
+      },
+      {
+        "id": "stilllife_09",
+        "title": "도금잔이 있는 아침식사 정물",
+        "titleEN": "Breakfast Table with Blackberry Pie",
+        "artist": "Willem Claeszoon Heda",
+        "date": "1631",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Heda, Willem Claeszoon - Breakfast Table with Blackberry Pie - WGA.jpg"
+      },
+      {
+        "id": "stilllife_10",
+        "title": "레몬, 오렌지, 장미가 있는 정물",
+        "titleEN": "Still Life with Lemons, Oranges and a Rose",
+        "artist": "Francisco de Zurbarán",
+        "date": "1633",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Francisco de Zurbarán - Still Life with Lemons, Oranges and a Rose.jpg"
+      },
+      {
+        "id": "stilllife_11",
+        "title": "멜론과 배가 있는 정물",
+        "titleEN": "Still Life with Melon and Pears",
+        "artist": "Luis Meléndez",
+        "date": null,
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Luis Meléndez - Still Life with Melon and Pears - Google Art Project.jpg"
+      },
+      {
+        "id": "stilllife_12",
+        "title": "과일 바구니",
+        "titleEN": "Basket of Fruit",
+        "artist": "Caravaggio",
+        "date": "c.1599",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Canestra di frutta (Caravaggio).jpg"
+      },
+      {
+        "id": "stilllife_13",
+        "title": "아스파라거스 다발",
+        "titleEN": "A Bundle of Asparagus",
+        "artist": "Édouard Manet",
+        "date": "1880",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Edouard Manet Bunch of Asparagus.jpg"
+      },
+      {
+        "id": "stilllife_14",
+        "title": "생선 정물",
+        "titleEN": "Still Life with Fish",
+        "artist": "Édouard Manet",
+        "date": "1864",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Still Life with Fish 1864 Edouard Manet.jpg"
+      },
+      {
+        "id": "stilllife_15",
+        "title": "사과와 석류가 있는 정물",
+        "titleEN": "Still Life with Apples and a Pomegranate",
+        "artist": "Gustave Courbet",
+        "date": "1871-72",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Gustave Courbet, 1871, Still Life with Apples and a Pomegranate, National Gallery.jpg"
+      },
+      {
+        "id": "stilllife_16",
+        "title": "세 마리 강아지가 있는 정물",
+        "titleEN": "Still Life with Three Puppies",
+        "artist": "Paul Gauguin",
+        "date": "1888",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Paul Gauguin - Still Life with Three Puppies.jpg"
+      },
+      {
+        "id": "stilllife_17",
+        "title": "굴, 과일과 와인이 있는 정물",
+        "titleEN": "Dishes with Oysters, Fruit, and Wine",
+        "artist": "Osias Beert the Elder",
+        "date": "c.1620-25",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Dishes with Oysters, Fruit, and Wine, by Osias Beert the Elder, Flemish, c. 1620-1625, oil on panel - National Gallery of Art, Washington - DSC09953.JPG"
+      },
+      {
+        "id": "stilllife_18",
+        "title": "바이올린과 과일 그릇",
+        "titleEN": "Violin and Fruit-Dish",
+        "artist": "Juan Gris",
+        "date": "1912-13",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Juan Gris (1887-1927) - Violin and Fruit-Dish (Violon et compotier) - NG5935 - National Gallery.jpg"
+      },
+      {
+        "id": "stilllife_19",
+        "title": "고등어와 유리잔이 있는 정물",
+        "titleEN": "A Still Life of Mackerel, Glassware, a Loaf of Bread and Lemons",
+        "artist": "Anne Vallayer-Coster",
+        "date": null,
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Anne Vallayer-Coster - A still life of mackerel, glassware, a loaf of bread and lemons on a table with a white cloth.Jpeg"
+      },
+      {
+        "id": "stilllife_20",
+        "title": "산토끼, 오리, 빵, 치즈와 포도주 정물",
+        "titleEN": "Still Life with Hare, Duck, Loaf of Bread, Cheese and Flasks of Wine",
+        "artist": "Jean-Baptiste Oudry",
+        "date": null,
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Jean-Baptiste Oudry - Still Life with Hare, Duck, Loaf of Bread, Cheese and Flasks of Wine.jpg"
+      }
+    ]
   }
 ]
