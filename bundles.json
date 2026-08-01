@@ -2546,5 +2546,201 @@
         "wikimediaFile": "Jean-Baptiste Oudry - Still Life with Hare, Duck, Loaf of Bread, Cheese and Flasks of Wine.jpg"
       }
     ]
+  },
+  {
+    "id": "com.masterpiece.bundle.met",
+    "name": "메트로폴리탄미술관 하이라이트",
+    "subtitle": "베르메르, 엘 그레코, 카라바조 외 17점",
+    "category": "미술관별",
+    "version": 1,
+    "artworkCount": 20,
+    "previewFileNames": [
+      "El_Greco_-_View_of_Toledo_-_Google_Art_Project.jpg",
+      "Johannes_Vermeer_(Dutch,_Delft_1632–1675_Delft)_-_Young_Woman_with_a_Water_Pitcher_-_Google_Art_Project.jpg",
+      "John_Singer_Sargent_(1856–1925)_Madame_X_(Madame_Pierre_Gautreau),_1883–84.jpg"
+    ],
+    "priceLabel": "₩1,900",
+    "artworks": [
+      {
+        "id": "met_01",
+        "title": "델라웨어강을 건너는 워싱턴",
+        "titleEN": "Washington Crossing the Delaware",
+        "artist": "Emanuel Leutze",
+        "date": "1851",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg"
+      },
+      {
+        "id": "met_02",
+        "title": "물주전자를 든 젊은 여인",
+        "titleEN": "Young Woman with a Water Pitcher",
+        "artist": "Johannes Vermeer",
+        "date": "c.1662",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Johannes_Vermeer_(Dutch,_Delft_1632–1675_Delft)_-_Young_Woman_with_a_Water_Pitcher_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "met_03",
+        "title": "류트를 든 여인",
+        "titleEN": "Woman with a Lute",
+        "artist": "Johannes Vermeer",
+        "date": "c.1662-63",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Vermeer_-_Woman_with_a_Lute_near_a_window.jpg"
+      },
+      {
+        "id": "met_04",
+        "title": "젊은 여인의 습작",
+        "titleEN": "Study of a Young Woman",
+        "artist": "Johannes Vermeer",
+        "date": "c.1665-67",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Johannes_Vermeer_(1632–1675),_Study_of_a_Young_Woman,_c._1665–1667.jpg"
+      },
+      {
+        "id": "met_05",
+        "title": "톨레도 풍경",
+        "titleEN": "View of Toledo",
+        "artist": "El Greco",
+        "date": "c.1596-1600",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "El_Greco_-_View_of_Toledo_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "met_06",
+        "title": "후안 데 파레하의 초상",
+        "titleEN": "Juan de Pareja",
+        "artist": "Diego Velázquez",
+        "date": "1650",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Diego_Velázquez_(1599–1660),_Juan_de_Pareja_(1606–1670),_1650.jpg"
+      },
+      {
+        "id": "met_07",
+        "title": "마누엘 오소리오 만리케 데 수니가",
+        "titleEN": "Manuel Osorio Manrique de Zúñiga",
+        "artist": "Francisco de Goya",
+        "date": "1787-88",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Goya,_manuel_osorio,_manrique_de_zuñiga,_1787-88.JPG"
+      },
+      {
+        "id": "met_08",
+        "title": "점쟁이",
+        "titleEN": "The Fortune Teller",
+        "artist": "Georges de La Tour",
+        "date": "c.1633-39",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Georges_de_La_Tour,_The_Fortune_Teller.jpg"
+      },
+      {
+        "id": "met_09",
+        "title": "음악가들",
+        "titleEN": "The Musicians",
+        "artist": "Caravaggio",
+        "date": "c.1595-96",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Musicians-Caravaggio_(c.1595).jpg"
+      },
+      {
+        "id": "met_10",
+        "title": "제임스 스튜어트, 리치먼드 공작",
+        "titleEN": "James Stuart, Duke of Richmond and Lennox",
+        "artist": "Anthony van Dyck",
+        "date": "c.1633-35",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "James_Stuart_(1612–1655),_Duke_of_Richmond_and_Lennox_MET_89.15.16_1.jpg"
+      },
+      {
+        "id": "met_11",
+        "title": "사비니 여인들의 납치",
+        "titleEN": "The Abduction of the Sabine Women",
+        "artist": "Nicolas Poussin",
+        "date": "1633-34",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "The_Abduction_of_the_Sabine_Women_–_Met_Museum_of_Art_46.160.jpg"
+      },
+      {
+        "id": "met_12",
+        "title": "젊은 남자의 초상",
+        "titleEN": "Portrait of a Young Man",
+        "artist": "Agnolo Bronzino",
+        "date": "1530년대",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Agnolo_Bronzino_-_Portrait_of_a_Young_Man.jpg"
+      },
+      {
+        "id": "met_13",
+        "title": "성모자",
+        "titleEN": "Madonna and Child",
+        "artist": "Duccio di Buoninsegna",
+        "date": "c.1290-1300",
+        "medium": "Tempera on panel",
+        "wikimediaFile": "Duccio_di_buoninsegna,_madonna_col_bambino,_1300_ca..JPG"
+      },
+      {
+        "id": "met_14",
+        "title": "새 밭의 퇴역 군인",
+        "titleEN": "The Veteran in a New Field",
+        "artist": "Winslow Homer",
+        "date": "1865",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Winslow_Homer_-_The_Veteran_in_a_New_Field.jpg"
+      },
+      {
+        "id": "met_15",
+        "title": "싱글 스컬을 탄 맥스 슈미트",
+        "titleEN": "Max Schmitt in a Single Scull",
+        "artist": "Thomas Eakins",
+        "date": "1871",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Max_Schmitt_in_a_Single_Scull.jpg"
+      },
+      {
+        "id": "met_16",
+        "title": "마담 X의 초상",
+        "titleEN": "Madame X (Madame Pierre Gautreau)",
+        "artist": "John Singer Sargent",
+        "date": "1883-84",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "John_Singer_Sargent_(1856–1925)_Madame_X_(Madame_Pierre_Gautreau),_1883–84.jpg"
+      },
+      {
+        "id": "met_17",
+        "title": "여관의 청년과 여인",
+        "titleEN": "Young Man and Woman in an Inn",
+        "artist": "Frans Hals",
+        "date": "1623",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Young_man_and_woman_in_an_inn_by_Frans_Hals_at_Metropolitan_Museum_of_Art.jpg"
+      },
+      {
+        "id": "met_18",
+        "title": "앵무새를 든 여인",
+        "titleEN": "Young Lady in 1866",
+        "artist": "Édouard Manet",
+        "date": "1866",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Édouard_Manet_-_Young_Lady_in_1866_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "met_19",
+        "title": "이아 오라나 마리아",
+        "titleEN": "Ia Orana Maria (Hail Mary)",
+        "artist": "Paul Gauguin",
+        "date": "1891",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Paul_Gauguin_-_Ia_Orana_Maria_(Hail_Mary)_-_Google_Art_Project.jpg"
+      },
+      {
+        "id": "met_20",
+        "title": "서커스 사이드쇼",
+        "titleEN": "Circus Sideshow (Parade de cirque)",
+        "artist": "Georges Seurat",
+        "date": "1887-88",
+        "medium": "Oil on canvas",
+        "wikimediaFile": "Circus_Sideshow_(Parade_de_cirque)_MET_ART526838.jpg"
+      }
+    ]
   }
 ]
